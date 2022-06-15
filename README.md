@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eniola
 - 👀 I’m interested in Flutter and Dart
-- 🌱 I’m currently learning flutter state management
+- 🌱 I’m currently learning flutter state management and UI Conversions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
