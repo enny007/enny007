@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eniola
 - 👀 I’m interested in Flutter, Dart and Tech in general
-- 🌱 I’m currently learning flutter state management and UI Conversions
+- 🌱 I’m currently learning Api integration and local and external server storage 
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me @EniolaBillz on Instagram and @OjoSaanu on twitter
 
