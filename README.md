@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eniola
 - 👀 I’m interested in Flutter, Dart and Tech in general
-- 🌱 I’m currently learning Api integration and local and external server storage 
+- 🌱 I’m currently learning Functional programming with dart, architecture and diving deeper into Riverpod
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me @EniolaBillz on Instagram and @OjoSaanu on twitter
 
