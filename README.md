@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Eniola
-- 👀 I’m interested in Flutter, Dart and Tech in general
-- 🌱 I’m currently diving into flutter web, stacked architecture and writing scalable apps
-- 💞️ I’m looking to collaborate on flutter projects
-- 📫 How to reach me @EniolaBillz on Instagram and @OjoSaanu on twitter
+- 👀 I’m interested in Mobile development,both native and cross-platform
+- 🌱 I’m currently diving into learning Swift and SwiftUI
+- 💞️ I’m looking to collaborate on Flutter projects
+- 📫 How to reach me @EniolaBillz on Instagram and Eniolaojo701@gmail.com
 
 <!---
 enny007/enny007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
