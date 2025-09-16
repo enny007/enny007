@@ -11,7 +11,7 @@
 
 ### 🎓 Shkula – Learning Simplified  
 [![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/us/app/shkula/id6711335915)  
-An educational mobile app designed to make **learning more interactive and accessible**.  
+A School management software designed to make **learning more interactive and accessible**.  
 - Built with **Flutter** for cross-platform support especially targeted toward web using Flutter web.  
 - Features course modules, progress tracking, and notifications.  
 - Optimized for smooth user experience across different platforms.  
