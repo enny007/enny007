@@ -22,8 +22,8 @@ An educational mobile app designed to make **learning more interactive and acces
 *(Current)
 [![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/us/app/pingtop-create-go-viral/id6470659417)  
 A **content creation app** that helps users make and share viral moments.  
-- Developed with **Flutter** and method and event channels polugins using swift and kotlin.  
-- Features media editing, social sharing, and community engagement tools like chatting, video upload.  
+- Developed with **Flutter** and method and event channels plugins using swift and kotlin.  
+- Features media editing, social sharing, and community engagement tools like chatting, video upload etc.  
 - Designed with scalability in mind for both iOS and android.  
 
 ---
