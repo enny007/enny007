@@ -27,7 +27,7 @@ A **content creation app** that helps users make and share viral moments.
 
 ---
 
-### 📸 Mentra - Mental Health App
+### ⚕️ Mentra - Mental Health App
 [![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/us/app/mentra/id6502996664)  
 Mentra is your **AI therapy companion** for anxiety, depression and stress. Connect with licensed therapists from anywhere in the world, anytime you need support.  
 - Developed with **Flutter** and method and event channels plugins using SwiftUI.  
