@@ -36,6 +36,15 @@ Mentra is your **AI therapy companion** for anxiety, depression and stress. Conn
 
 ---
 
+### 🏫 SchoolDock - Study. Pass. Succeed. Your Global Learning Partner.
+[![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/ng/app/schooldock/id6762461947)  
+From **school exams** to **professional certifications** and **career success**, SchoolDock is your all-in-one AI platform for learning, career exploration, and school management.
+- Developed with **Flutter**.  
+- Features AI chat, School management tools, exam prep, news, etc.  
+- Designed with scalability in mind for both iOS and Android.  
+
+---
+
 
 
 
