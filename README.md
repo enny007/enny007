@@ -2,7 +2,7 @@
 
 - 👀 I’m passionate about **Mobile Development** (both native and cross-platform).  
 - 🌱 Currently diving deeper into **Swift & SwiftUI**.  
-- 💞️ Open to collaborating on **Flutter projects**.  
+- 💞️ Open to collaborating on **Flutter projects & Swift & SwiftUI**.  
 - 📫 Reach me: [Instagram @EniolaBillz](https://instagram.com/EniolaBillz) | [Email](mailto:Eniolaojo701@gmail.com)  
 
 ---
@@ -19,7 +19,6 @@ A School management software designed to make **learning more interactive and ac
 ---
 
 ### 📸 PingTop – Create & Go Viral  
-*(Current)
 [![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/us/app/pingtop-create-go-viral/id6470659417)  
 A **content creation app** that helps users make and share viral moments.  
 - Developed with **Flutter** and method and event channels plugins using swift and kotlin.  
@@ -28,15 +27,15 @@ A **content creation app** that helps users make and share viral moments.
 
 ---
 
-## 🛠 Projects In Progress
-
-### Activ8 Lifestyle App 
-*(Internal Testing on Testflight)*  
-A Flutter app for coupons, money transfer and overall lifestyle management.  
-- Developed using **Flutter** and a encrypted Base64 backend
-- **Tech Stack**: Flutter, Firebase, REST API.  
-- [🔗 Repo / Case Study](#) *(to be published)*  
+### 📸 Mentra - Mental Health App
+[![Download on the App Store](https://img.shields.io/badge/App%20Store-Download-blue?logo=apple)](https://apps.apple.com/us/app/mentra/id6502996664))  
+Mentra is your **AI therapy companion** for anxiety, depression and stress. Connect with licensed therapists from anywhere in the world, anytime you need support.  
+- Developed with **Flutter** and method and event channels plugins using SwiftUI.  
+- Features AI chat, Mood tracker, Health analytics etc.  
+- Designed with scalability in mind for both iOS and android.  
 
 ---
+
+
 
 
