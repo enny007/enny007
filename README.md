@@ -1,8 +1,8 @@
 # Eniola Ojo Segun
 
-**Senior Mobile Engineer** · Flutter & Swift · Lagos, Nigeria
+**Software Engineer** · Lagos, Nigeria
 
-I build mobile products that hold up on real devices — cheap Android phones,
+I build products that hold up on real devices — cheap Android phones,
 unstable networks, users who never read a permission dialog. Five-plus years
 shipping iOS, Android, web and macOS apps across fintech, logistics, edtech and
 real-time messaging.
